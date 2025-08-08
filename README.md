@@ -6,6 +6,6 @@ Zpracovat a analyzovat prodeje společnosti Cookie Company za rok 2024. Surová 
 * 643 záznamů
 
 ##  Soubory ke stažení:
--  [XLSX](Report-prodeju-spolecnosti-cookie/blob/main/Report.xlsx) – Report prodeju spolecnosti cookie
+-  [XLSX](Report.xlsx) – Report prodeju spolecnosti cookie
 
 
