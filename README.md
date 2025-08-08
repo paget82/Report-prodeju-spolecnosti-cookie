@@ -7,5 +7,3 @@ Zpracovat a analyzovat prodeje společnosti Cookie Company za rok 2024. Surová 
 
 ##  Soubory ke stažení:
 -  [XLSX](Report.xlsx) – Report prodeju spolecnosti cookie
-
-
