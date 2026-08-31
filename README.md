@@ -15,4 +15,4 @@ Zpracovat a analyzovat prodeje společnosti Cookie Company za rok 2024. Surová 
   
 ##  Použité funkce v Exceli
 - `IFERROR`, `VLOOKUP`, `SLICER`
-- `Pivot Table`, `Line Graph`, `Pie Chart`
+- `Pivot Table`, `Line Chart`, `Bar Chart`, `Pie Chart`
